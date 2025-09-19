@@ -30,8 +30,11 @@
 **THIS TOOL IS FOR EDUCATIONAL AND AUTHORIZED TESTING PURPOSES ONLY**
 
 • Only use this tool on systems you own or have explicit written permission to test
+
 • Unauthorized network attacks are illegal and unethical
+
 • Always comply with local laws and regulations
+
 • Use responsibly and ethically
 
 <br>
